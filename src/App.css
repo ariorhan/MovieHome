@@ -1,0 +1,168 @@
+body {
+    margin: 0;
+    font-family: Montserrat, "Segoe UI", "Roboto",
+      "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+    
+  /* Login  */
+  
+.login-page {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background:url("https://miro.medium.com/max/1400/1*5lyavS59mazOFnb55Z6znQ.png");
+}
+  
+.login-page .card {
+    background-color: rgb(60, 58, 58);
+    font-weight: bold;
+    text-align: left;
+    border-radius: 10px;
+    opacity: 80%;
+    color:white
+}
+  
+  /* Movies Page */
+  
+.movies {
+    background-color: rgb(49, 48, 49);
+}
+  
+.movie {
+    width: 280px;
+    background-color: rgb(62, 60, 60);
+    border-radius: 5px;
+    box-shadow: 5px 5px black;
+    overflow: hidden;
+    color:white;
+}
+  
+.movie img {
+    max-width: 100%;    
+}
+  
+.movie-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    font-weight: 500;
+}
+  
+.movie-info h6 {
+    margin: 0;
+}
+
+.movie-rate {
+    border-radius: 50px;
+    background-color: blue;
+    color: white;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    padding-top:12px;
+    font-weight: 600;
+    
+}
+  
+.container-search {
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    top: 0;
+    
+}
+  
+.container-search .search-bar {
+    width: 60%;
+    background-color: rgb(60, 58, 58);
+}
+  
+.container-search .search-bar .search {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    height: 50px;
+    width: 80%;
+    border:none;
+}
+  .container-search .search-bar .search::placeholder {
+    color: black;
+    opacity: 0.5;
+    padding-left: 9px;
+  }
+  
+  .container-search .search-bar .search:focus {
+    outline: 0;
+  }
+  
+  .container-search .search-bar button {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: rgb(76, 76, 76) ;
+    width: 20%;
+    height: 50px;
+    color: white;
+    cursor: pointer;
+    border:none;
+  }
+  
+  /* Movies Details  */
+  
+  .container-button {
+    background-color: rgb(60, 58, 58);
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    position: sticky;
+    top: 0;    
+  }
+  
+  .container-button .return-button {
+    margin-right: 3rem;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;    
+  }
+  
+  .movie-desc .div-img {
+    width:600px;
+    height: 100%;
+  }
+  
+  .movie-desc img {
+    max-width: 100%;
+    margin-top: 15px;   
+    border-radius: 10px;
+    max-height: 80%;
+    
+  }
+  
+  .movie-desc {
+    background-color: rgb(49, 48, 49);
+  }
+  
+  .movie-desc .details {
+    background-color: rgb(34, 31, 31);
+    color: white;
+    width: 500px;
+    height: 80%;
+    align-items: center;
+    margin-top: 10px;
+    border-radius: 10px;
+    
+  }
+  
+  .movie-desc .details ul {
+    list-style-type: none;
+  }
+  
+  .movie-desc .details ul li {
+    text-align: left;
+    margin-top: 1rem;
+  }
+
