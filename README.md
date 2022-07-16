@@ -1,7 +1,17 @@
 link is here https://movie-app-orhanari.netlify.app/ \
 username: orhanari\
 password: 5053906Orhan
+
+### Movie App
+- This project was coded with Bootstrap and ReactJS.
+- I used free API from TMDB.
+- 
+
 ![Screenshot 2022-07-15 at 21-47-04 MovieApp](https://user-images.githubusercontent.com/66368354/179308684-2218917f-8f07-4056-8a68-a713b6692e37.png)
+- When a user first lands on the page, they are presented with a login page with an email and password input field and a login button.
+- When a user first lands on the page, the email input field has focus. 
+- Email and password should be required.
+- Password should be longer than 6 letters.
 
 ![Screenshot 2022-07-15 at 21-48-39 MovieApp](https://user-images.githubusercontent.com/66368354/179308702-059e9333-9d45-4a8b-bfec-ff0870233499.png)
 
