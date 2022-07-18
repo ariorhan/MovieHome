@@ -3,7 +3,7 @@ username: orhanari\
 password: 5053906Orhan
 
 ### Movie App
-- This project was coded with Bootstrap and ReactJS.
+- This project was coded with Bootstrap, Formik, Yup and ReactJS. 
 - I used free API from TMDB.
  
 
