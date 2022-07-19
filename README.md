@@ -16,7 +16,13 @@ password: 5053906Orhan
 
 ![Screenshot 2022-07-15 at 21-48-39 MovieApp](https://user-images.githubusercontent.com/66368354/179308702-059e9333-9d45-4a8b-bfec-ff0870233499.png)
 
+- When users logged in, they were taken to a page with a search input field and a search button.
+- When a user first lands on the page, the search input field has focus.
+
 ![Screenshot 2022-07-15 at 21-49-14 MovieApp](https://user-images.githubusercontent.com/66368354/179308715-2c72ee5d-3351-452b-b954-9241c67573e2.png)
+
+- A user may type any text into the search input field then click on the search button to initiate a search.
+- A user may type any text into the search input field then press the enter key to initiate a search.
 
 ![Screenshot 2022-07-15 at 21-49-24 MovieApp](https://user-images.githubusercontent.com/66368354/179308724-b8e65475-0201-41fe-9db4-4c7a438cd118.png)
 
