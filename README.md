@@ -23,9 +23,12 @@ password: 5053906Orhan
 
 - A user may type any text into the search input field then click on the search button to initiate a search.
 - A user may type any text into the search input field then press the enter key to initiate a search.
+- When leaving the page, the email and password in the local storage should be cleared.
 
 ![Screenshot 2022-07-15 at 21-49-24 MovieApp](https://user-images.githubusercontent.com/66368354/179308724-b8e65475-0201-41fe-9db4-4c7a438cd118.png)
 
+- Clicking on one of the results, redirects the user to another page and shows more details of that result.
+- Every result and detail page should have at least image, name and bio.
 
 # Getting Started with Create React App
 
