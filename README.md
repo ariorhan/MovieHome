@@ -4,7 +4,7 @@ password: 5053906Orhan
 
 ### Movie App
 - This project was coded with Bootstrap, Formik, Yup and ReactJS. 
-- I used free API from TMDB.
+- I used free API from "TMDB".
  
 
 ![Screenshot 2022-07-15 at 21-47-04 MovieApp](https://user-images.githubusercontent.com/66368354/179308684-2218917f-8f07-4056-8a68-a713b6692e37.png)
@@ -12,7 +12,7 @@ password: 5053906Orhan
 - When a user first lands on the page, the email input field has focus. 
 - Email and password should be required.
 - Password should be longer than 6 letters.
-- A user may email and password with correct conditions into the input field then click on the login button or press the Enter key to initiate login.
+- A user may email and password with correct conditions into the input field then click on the login button or press the Enter key to initiate Login.
 
 ![Screenshot 2022-07-15 at 21-48-39 MovieApp](https://user-images.githubusercontent.com/66368354/179308702-059e9333-9d45-4a8b-bfec-ff0870233499.png)
 
@@ -23,7 +23,7 @@ password: 5053906Orhan
 
 - A user may type any text into the search input field then click on the search button to initiate a search.
 - A user may type any text into the search input field then press the enter key to initiate a search.
-- When leaving the page, the email and password in the local storage should be cleared.
+- When leaving the page, the email and password in the Local Storage should be cleared.
 
 ![Screenshot 2022-07-15 at 21-49-24 MovieApp](https://user-images.githubusercontent.com/66368354/179308724-b8e65475-0201-41fe-9db4-4c7a438cd118.png)
 
